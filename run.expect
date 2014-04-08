@@ -3,3 +3,5 @@
 spawn ./xmpl Hey! xxx
 # exec ./xmpl Hey! xxx
 
+expect eof
+
